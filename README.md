@@ -1,7 +1,7 @@
 # Classifier-Weka
 
 #### Ref: https://www.cs.waikato.ac.nz/ml/weka/courses.html
-#### Ref: The slides from Rolf Schwitter, Carla P. Gomes, Bing Liu, KAU, and Paul Kennedy 
+#### Ref: The slides from Rolf Schwitter, Carla P. Gomes, Bing Liu, KAU, David Page, and Paul Kennedy 
 
 
 ##  Training and testing - I
@@ -37,6 +37,10 @@
 10-fold or 5-fold is most commonly used.
 
 ### Exercise -III
+Suppose we have 100 instances, and we want to estimate accuracy with cross validation. What is final accuary?
+![image](Figs/Fig4.png)  
+
+### Exercise -IV
 * Load "segment‐challenge.arff";
 * Use 10-CV to evaluate the model (KNN with default K value).
 * Choose the best K value (1-10);
