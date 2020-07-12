@@ -37,7 +37,7 @@
 10-fold or 5-fold is most commonly used.
 
 ### Exercise -III
-Suppose we have 100 instances, and we want to estimate accuracy with cross validation. What is final accuary?
+Suppose we have 100 instances, and we want to estimate accuracy with cross validation. What is the final accuary?
 ![image](Figs/Fig4.png)  
 
 ### Exercise -IV
