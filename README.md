@@ -45,6 +45,10 @@ Suppose we have 100 instances, and we want to estimate accuracy with cross valid
 * Use 10-CV to evaluate the model (KNN with default K value).
 * Choose the best K value (1-10);
 
+* Load "diabetes.arff";
+* Use 10-CV to evaluate the model (KNN with default K value).
+* Choose the best K value (1-10);
+
 ### Exercise -V
 * Which feature(s) has the highest impact on the "Friendly"?
 * Data source "Rabbit_Sydney_Data".
