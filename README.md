@@ -46,5 +46,8 @@ Suppose we have 100 instances, and we want to estimate accuracy with cross valid
 * Choose the best K value (1-10);
 
 ### Exercise -V
+* Which feature has the highest impact on the "Friendly"?
+* Data source "Rabbit_Sydney_Data".
+* What else knowledge do you discover via Weka?
 
 
